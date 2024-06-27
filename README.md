@@ -52,7 +52,7 @@ Interests
 ## cover-letter
 ## resume
 
-[minddrift.ai]
+[mindrift.ai](mindrift.ai.md)
 
 ## curriculum vitae
 
