@@ -1,43 +1,50 @@
-```
-         1         2         3         4         5         6         7         8
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
+```                  .                             .   
+,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | , 
+| | | `-. ,-| | | |  ,-| |   |   | |  /     | | |<  
+' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
 
-                                                                            [1]
-                                  R E S U M E
-
-From: Marco Santacruz Motte
-      2 de febrero
-      Col. Linda Vista
-      Zicatela, Oaxaca
-      MEX
-      Tel. +52 (954) 1412 611
-      marco.santacruz@gmail.com
-      
-To:   https://mindrift.ai/
-
+Subject    : Job Application (https://mindrift.ai/)
+-------
                                                         Mexico. 20224, June 27th
-```
-# Jane Doe
 
-[Your Address]  
-[City, State, Zip Code]  
-[Phone Number]  
-[Email Address]  
-[LinkedIn Profile]  
+Dear
+
+attached you might find the requested Resume, including the cover letter.
+
+Best regards,
+
+Marco Santacruz
+>Calle 2 de febrero
+Col. Linda Vista
+Zicatela, Oaxaca
+MEXICO
+Tel. +52 (954) 1412 611
+```
+# Marco Santacruz Motte
+
+#### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
+Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) 
+
+[msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
+
+### Open to work
+Writing and Editing, Domain Experts
+
+Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
 
 ---
 
 ## Professional Summary
 
-Experienced Technical Writer/Editor with over 1 year of expertise in creating and editing technical documentation related to software development. Proficient in understanding technical terminology and basic code samples in various programming languages. Adept at working with rich-text formats including YAML, CSV, and HTML. Enthusiastic about using language skills to shape the future of AI and committed to producing high-quality, accurate, and helpful content.
+Experienced Software Architect with over 20+ year of expertise in creating and editing technical documentation related to software development. Proficient in understanding technical terminology and code snippets in various programming languages. Adept at working with rich-text formats including Markdown, CSV, and HTML. Enthusiastic about collaborating to shape the future of AI and committed to producing high-quality, accurate, and helpful content.
 
 ---
 
 ## Professional Experience
 
-**Technical Writer/Editor**  
-*Company Name*, *City, State*  
-*Month, Year – Present*
+**Software Architect // Automotive Industry / Advanced Driver Assistance Systems (ADAS)**  
+*CARIAD SE*, *Berlin, Germany*  
+*January, 2018 – November, 2022*
 
 - Created and edited technical documentation for software development projects, ensuring clarity, accuracy, and compliance with style guides.
 - Reviewed and fact-checked responses to ensure they met quality standards and were helpful, honest, and harmless.
@@ -103,3 +110,14 @@ Experienced Technical Writer/Editor with over 1 year of expertise in creating an
 ## References
 
 Available upon request.
+
+===
+
+## Application Role(s)
+
+* Writing and Editing.
+* Domain Experts
+
+
+Refers to  : [cover-letter](mindrift.ai-cover-letter.md)
+
