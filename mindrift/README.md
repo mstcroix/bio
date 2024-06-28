@@ -3,7 +3,7 @@
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) 
 
-[msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
+[msantacruz.io](https://msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
 
 ### Open to work
 * Writing and Editing, Domain Experts
