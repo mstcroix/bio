@@ -6,15 +6,15 @@ Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEya
 [msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
 
 ### Open to work
-Writing and Editing, Domain Experts
+* Writing and Editing, Domain Experts
 
-Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
+* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
 
 ---
 
 ## Professional Summary
 
-Experienced Software Architect with over 20+ year of expertise in creating and editing technical documentation related to software development. Proficient in understanding technical terminology and code snippets in various programming languages. Adept at working with rich-text formats including Markdown, CSV, and HTML. Enthusiastic about collaborating to shape the future of AI and committed to producing high-quality, accurate, and helpful content.
+Easy going Technical Expert with over 20+ year of expertise in creating and editing technical documentation related to software development. Proficient in understanding technical terminology and code snippets in various programming languages. Adept at working with rich-text formats including Markdown, CSV, and HTML. Enthusiastic about collaborating to shape the future of AI and committed to producing high-quality, accurate, and helpful content.
 
 ---
 
@@ -22,7 +22,7 @@ Experienced Software Architect with over 20+ year of expertise in creating and e
 
 **Software Architect // Automotive Industry / Advanced Driver Assistance Systems (ADAS)**  
 *CARIAD SE*, *Berlin, Germany*  
-*January, 2018 – November, 2022*
+*January, 2018 – November, 2022* (5 years)
 
 - Created and edited technical documentation for software development projects, ensuring clarity, accuracy, and compliance with style guides.
 - Reviewed and fact-checked responses to ensure they met quality standards and were helpful, honest, and harmless.
@@ -30,23 +30,27 @@ Experienced Software Architect with over 20+ year of expertise in creating and e
 - Collaborated with cross-functional teams to develop and maintain a consistent "voice" for AI projects.
 - Adapted quickly to new methods and guidelines, handling multiple projects and topics efficiently.
 
-**Junior Technical Writer**  
-*Previous Company Name*, *City, State*  
-*Month, Year – Month, Year*
+**Technical Expert**  
+*Continental AG*, *Guadalajara, MEX. Villingen-Schwenningen, GER*  
+*March, 2005 – December, 2017* (13 years)
 
-- Assisted in the creation and editing of technical manuals, user guides, and online help systems.
-- Learned and applied various rich-text formats including YAML, CSV, and HTML in documentation.
-- Conducted research and gathered information from developers and subject matter experts to ensure accuracy.
-- Edited and proofread documents to ensure they adhered to company standards and style guides.
-- Participated in team meetings and contributed to the improvement of documentation processes.
+Agile Development Experience
+- Successfully introduced and supported implementation of Agile SCRUM Methodology for Software Development in the Commercial Vehicles division 
+- Initial implementation resulted in a considerable reduction in development time for CNH-ADIC Project (Italy) to 6-months 
+- Trained (know-how transfer) and coordinated software development activities for local MBDS-core Development team using Agile SCRUM Methodology
+Team size: 6 members
+- Served as Local Scrum Master, managing support activities among Germany/Romania and Mexico
+- Served as Local Scrum Master coordinating local software group of 16 members (during >10 sprints)
+- Achieved homogenisation of team-members know-how by the development of organisational training matrix for software group
+
 
 ---
 
 ## Education
 
-**Bachelor’s Degree in Technical Communication**  
-*University Name*, *City, State*  
-*Year of Graduation*
+**Bachelor’s Degree in Electronic Systems Engineering**  
+*Tec de Monterrey*, *Guadalajara, Mexico*  
+*Graduation Year: 2003*
 
 ---
 
@@ -55,7 +59,7 @@ Experienced Software Architect with over 20+ year of expertise in creating and e
 - Technical Writing and Editing
 - Understanding of Technical Terminology and Coding
 - Familiarity with Programming Languages
-- Proficiency in YAML, CSV, and HTML
+- Proficiency in CSV and HTML
 - Strong Communication and Interpersonal Skills
 - Attention to Detail
 - Ability to Learn New Methods Quickly
@@ -65,23 +69,33 @@ Experienced Software Architect with over 20+ year of expertise in creating and e
 
 ---
 
-## Certifications
+## Patents
 
-- Certified Technical Writer (CTW) – *Certification Body*, *Year* (if applicable)
+> https://patents.google.com/patent/WO2011049568A1
+- Stepper motor controller – *WO2011049568A1*, *2009* 
 
 ---
 
 ## Professional Development
 
-- Completed *Relevant Course or Workshop* – *Year*
-- Attended *Relevant Conference or Seminar* – *Year*
+> Continental Automotive GmbH
+- Completed *Agile SCRUM* – *Year*
+- Attended *An Introduction to Scrum* – *Year*
+- Coaching & High-Performance Teams
+- PMI PMP ® Examination Specification Training
+- Requirements Engineering
 
 ---
 
 ## Technical Skills
 
-- **Programming Languages:** *[List any languages you are familiar with, e.g., Python, JavaScript, Java]*
-- **Tools:** *[List any tools you are proficient in, e.g., Microsoft Office, Google Docs, Jira, Confluence]*
+- **Programming Languages:**
+  -	HTML, DHTML (JavaScript/ECMA-262), XML, CGIs, Perl, ColdFusion, ASP (VBscript), PHP and ActionScript
+  - Assembler, C, C++, Java, Visual Basic, VBA, C#
+  - Python
+- **Tools:** 
+  -	Microsoft Office, Google Docs
+  -	Jira, Confluence, Jenkins
 
 ---
 
