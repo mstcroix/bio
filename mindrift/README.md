@@ -116,5 +116,5 @@ Available upon request.
 * Domain Experts
 
 
-Refers to  : [cover-letter](mindrift/cover-letter.md)
+Refers to  : [cover-letter](cover-letter.md)
 
