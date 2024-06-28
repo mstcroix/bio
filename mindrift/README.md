@@ -20,15 +20,20 @@ Easy going Technical Expert with over 20+ year of expertise in creating and edit
 
 ## Professional Experience
 
-**Software Architect // Automotive Industry / Advanced Driver Assistance Systems (ADAS)**  
+**Software Architect**  
 *CARIAD SE*, *Berlin, Germany*  
 *January, 2018 – November, 2022* (5 years)
 
+- Analysis of customer requirements, as well as analysis and evaluation of change requests
+- Maintenance and design of documentation and software architectures
 - Created and edited technical documentation for software development projects, ensuring clarity, accuracy, and compliance with style guides.
-- Reviewed and fact-checked responses to ensure they met quality standards and were helpful, honest, and harmless.
-- Worked closely with Team Leads to provide feedback to writers, fostering a culture of continuous improvement.
-- Collaborated with cross-functional teams to develop and maintain a consistent "voice" for AI projects.
+- Analysis, evaluation, and development of software and system requirements and design
+- Worked closely with Team Leads to provide feedback to developers, fostering a culture of continuous improvement.
 - Adapted quickly to new methods and guidelines, handling multiple projects and topics efficiently.
+- Continuous software integration
++ Improvement of the development process for the ongoing series in the Automotive SPICE context
++ New and further development/documentation of scripts for the automation of development processes
++ Consulting with subject matter experts, taking into account the overall architecture and architecture principles
 
 **Technical Expert**  
 *Continental AG*, *Guadalajara, MEX. Villingen-Schwenningen, GER*  
@@ -46,7 +51,7 @@ Team size: 6 members
 
 ---
 
-## Education
+## Education  
 
 **Bachelor’s Degree in Electronic Systems Engineering**  
 *Tec de Monterrey*, *Guadalajara, Mexico*  
