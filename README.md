@@ -20,6 +20,8 @@ Zicatela, Oaxaca, Mexico
 ---
 ## profile
 
+![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4)
+
 ## about me
 
 I create solutions in an interdisciplinary form. 
@@ -75,6 +77,6 @@ Personal Philosophy : "Fast, well done and at the first try"
 
 ## references
 
-[CARIAD SE(references/cariad.pdf)], 5 Years (GER)
-[Continental AG(references/conti.pdf)], 13 Years (MEX, GER)
+[CARIAD SE](references/cariad.pdf), 5 Years (GER)
+[Continental AG](references/conti.pdf), 13 Years (MEX, GER)
 
