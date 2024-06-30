@@ -3,8 +3,13 @@
 
 ' bio, resume, curriculum vitae, letter of introduction, cover letter
 
+>"El trabajo debera ser personal, grupal y trascendental."
+>Pierre Faure
+
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) 
+
+Zicatela, Oaxaca, Mexico
 
 [msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
 
@@ -61,4 +66,15 @@ Personal Philosophy : "Fast, well done and at the first try"
 ## curriculum vitae
 
 []
+
+## career
+
+| Year     	|                                                                                                                                                                                                                                                                                                                                             	|
+|------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 2022 	|  	|
+
+## references
+
+[CARIAD SE(references/cariad.pdf)], 5 Years (GER)
+[Continental AG(references/conti.pdf)], 13 Years (MEX, GER)
 
