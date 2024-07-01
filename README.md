@@ -1,13 +1,8 @@
-# Marco Santacruz-Motte
-## bio
-
-' bio, resume, curriculum vitae, letter of introduction, cover letter
-
->"El trabajo debera ser personal, grupal y trascendental."
->Pierre Faure
-
+`!-//// robots.json
+#web3spiddr ///////////////////////////////////////////////////////////////////////////////////////->`
+# mstcröix.bio
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
-Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) 
+Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
 
 Zicatela, Oaxaca, Mexico
 
@@ -18,17 +13,46 @@ Zicatela, Oaxaca, Mexico
 * Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
 
 ---
-## profile
+## avatar
 
-![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4)
+| GitHub | Ethereum Networks                       |
+| ------- | -------------------------------------- |
+| ![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4) | ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) |
+
+## intro
+
+' bio, resume, curriculum vitae, letter of introduction, cover letter, quote, profile
+
+>"El trabajo deberá ser personal, grupal y trascendental."
+>Pierre Faure
+## bio
+
+### t e c h
+
+1982. Born in Morelia. Michoacan. Mexico (3.8kg)
+1988. On October 12, the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
+1990. 6 years old — 3rd grade elementary school I wrote my first program in LEGO language. My teacher gifted me the Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program counts up to the infinite ♾️
+1994. 12 years old — First in hand encounter and usage of Internet at I.T.E.S.O University (MEX)
+	1. *Bulletin Board System (BBS) and  Internet Relay Chat (IRC)*
+1995. 14 years old — I became student of the Guadalajara Campus of Tec de Monterrey. I am introduced to UNIX terminals, Netscape, HTML, Internet and the www. My love for understanding how computer virii sends me throw a quest from computers science into hardware discovering  assembler language, debuggers.
+	1. *JavaScript, ICQ, Napster, AOL*
+1996. 18 years old - I gave up the idea of studying Architecture (as my sister) and started studying Electronic Systems Engineering, later being tempted by the newly created Mechatronic career.
+	1. *C++, Java, Virtual Machines. MSN*
+1997. I found out about Bitcoin.
+	1. *Blockchain*
+1998. I found about the Ethereum Virtual Machine.
+	1. *Smart-contracts*
+
+### p e r s o n a l
 
 ## about me
 
-I create solutions in an interdisciplinary form. 
-I am a natural integrator and social human being. 
-I thrive to marry Tech & Art. 
+I create solutions in an interdisciplinary form.
+I am a natural integrator and social human being.
+I thrive to marry Tech & Art.
 
-Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing together his diverse skills and 20+ years of experiences in technology, engineering, and design to form an harmonious and comprehensive approach.  As an earlier Mexican child programmer, machine lover, mathematics enthusiast, amateur designer, project leader, and engineer, Marco brings a wealth of diverse experiences.  His interdisciplinary approach seamlessly integrates different classic & transcendental sciences to craft captivating human experiences.  Marco's quest for interdisciplinary exploration aligns with his passion for pushing boundaries. With a unique skill set as an electronic engineer, software integrator, and architect, he adeptly bridges theoretical concepts and practical implementation, unlocking untapped potential in the convergence of meta-science, digital technology, mechanics, and anatomy.  Beyond technical mastery, he is eager to leverage his frugality, simplicity & moderation skillset at the intersection of art and technology through integration and synthesis. 
+## profile
+Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing together his diverse skills and 20+ years of experiences in technology, engineering, and design to form an harmonious and comprehensive approach.  As an earlier Mexican child programmer, machine lover, mathematics enthusiast, amateur designer, project leader, and engineer, Marco brings a wealth of diverse experiences.  His interdisciplinary approach seamlessly integrates different classic & transcendental sciences to craft captivating human experiences.  Marco's quest for interdisciplinary exploration aligns with his passion for pushing boundaries. With a unique skill set as an electronic engineer, software integrator, and architect, he adeptly bridges theoretical concepts and practical implementation, unlocking untapped potential in the convergence of meta-science, digital technology, mechanics, and anatomy.  Beyond technical mastery, he is eager to leverage his frugality, simplicity & moderation skillset at the intersection of art and technology through integration and synthesis.
 
 *Strengths* : pedagogical, creative and interpersonal skills
 *Focus*: Innovation, Technology, Research & Development
@@ -48,7 +72,7 @@ Personal Philosophy : "Fast, well done and at the first try"
 - Historic, demographic and geo-mapped Research
 
 * Passionate about new Technologies & Bionics
-* Into Product development and Innovation 
+* Into Product development and Innovation
 
 䣲뭡㶰㥉菜渟
 䧃맟   矩  糤距
@@ -65,18 +89,30 @@ Personal Philosophy : "Fast, well done and at the first try"
 
 [mindrift.ai](mindrift)
 
+## career
+
+| Country | Role                                   | Term date | Company                      |
+| ------- | -------------------------------------- | --------- | ---------------------------- |
+| MEX     | Independent Entrepreneur               | 2024      | OrganiK + Tata Ubiza         |
+| GER     | Software Architect                     | 2023      | CARIAD SE                    |
+| GER     | System Architect                       | 2022      | Carmeq GmbH                  |
+| GER     | Technical Expert                       | 2017      | Continental Automotive GmbH  |
+| MEX     | Technical Consultant                   | 2011      | ModuTram Mexico              |
+| MEX     | Senior Software Engineer               | 2008      | Continental Automotive       |
+| MEX     | Software Platform Developer            | 2007      | Siemens VDO                  |
+| MEX     | Software Project Manager and Developer | 2006      | Siemens VDO Automo           |
+| UK      | Branch Manager                         | 2004      | Feng Sushi                   |
+| MEX     | Back End Developer                     | 2003      | Mayan Resorts                |
+| MEX     | Graphic Web Designer                   | 2002      | Tec de Monterrey             |
+| MEX     | Administrative Assistant               | 1999      | Consejo Estatal de Poblacion |
+
+See  [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL)
+
 ## curriculum vitae
 
 []
 
-## career
-
-| Year     	|                                                                                                                                                                                                                                                                                                                                             	|
-|------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 2022 	|  	|
-
 ## references
 
-[CARIAD SE](references/cariad.pdf), 5 Years (GER)
-[Continental AG](references/conti.pdf), 13 Years (MEX, GER)
-
+[// CARIAD SE / Human Resources - Recommendation Letter](references/cariad.pdf), 5 Years (GER)
+[// Continental AG / Human Resources - Recommendation Letter](references/conti.pdf), 13 Years (MEX, GER)
