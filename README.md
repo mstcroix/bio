@@ -13,7 +13,7 @@ Zicatela, Oaxaca, Mexico
 * Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
 
 ---
-## avatar
+## :avatar
 
 | GitHub | Ethereum Networks                       |
 | ------- | -------------------------------------- |
@@ -25,17 +25,17 @@ Zicatela, Oaxaca, Mexico
 ' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
 ```
 
-## intro
+## :intro
 
 ' bio, resume, curriculum vitae, letter of introduction, cover letter, quote, profile
 
 >"El trabajo deberá ser personal, grupal y trascendental."
 >Pierre Faure
-## bio
+## :bio
 
-### t e c h
+### t e c h {
 
-1982. Born in Morelia. Michoacan. Mexico (3.8kg)
+1982. Born in Mexico (Civil Engineer, Accountant)
 1988. 2 years old (almost) -- the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
 1990. 6 years old — I wrote my first program in LEGO language using a Commodore 64 and a 5" Floppy Disk. My teacher gifted me at the end of the year the K & R Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program uses an empty database and counts up to the infinite ♾️
 1994. 12 years old — First in hand encounter and usage of Internet at I.T.E.S.O University (MEX)
@@ -51,28 +51,43 @@ Zicatela, Oaxaca, Mexico
 	1. *Blockchain*
 2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
 	1. *Smart-contracts*
-2023. I prompted Chat-GPT for the first time, followed by my first non deterministic generative picture generated via Midjourney
+2023. I prompted first "AI" for the first time, followed by my first non deterministic generative picture generated via Midjourney 1. Chat-GPT 3.5
+### }
 
 ### p e r s o n a l
 
+Some of my most significant milestones in my life
 
+1982. Born in Morelia. Michoacán. Mexico (3.8kg)
+2000. Love Parade (Berlin, GER)
+2003. Work & Live in UK (London, UK)
+2006. Work & Live in GER (Villingen, GER)
+2008. Married
+2011. Married
+2012. ExPat Germany. Relocated to Black Forrest, GER
+2014. My father dies from Pancreatic Cancer with 63 years
+2018. Relocated to Berlin, GER
+2022. Leave GER. Relocated to Oaxaca. MEX
+2024. Relocated to Guadalajara. MEX.
+- start collaboration with Mindrift as AI Tutor (writer)
 
 ## about me
 
-I create solutions in an interdisciplinary form. 
+I create solutions in an interdisciplinary form.
 
-I am a natural integrator and social human being. 
+I am a natural integrator and social human being.
 
 I thrive to marry Tech & Art.
 
 ## profile
+
 Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing together his diverse skills and 20+ years of experiences in technology, engineering, and design to form an harmonious and comprehensive approach.  As an earlier Mexican child programmer, machine lover, mathematics enthusiast, amateur designer, project leader, and engineer, Marco brings a wealth of diverse experiences.  His interdisciplinary approach seamlessly integrates different classic & transcendental sciences to craft captivating human experiences.  Marco's quest for interdisciplinary exploration aligns with his passion for pushing boundaries. With a unique skill set as an electronic engineer, software integrator, and architect, he adeptly bridges theoretical concepts and practical implementation, unlocking untapped potential in the convergence of meta-science, digital technology, mechanics, and anatomy.  Beyond technical mastery, he is eager to leverage his frugality, simplicity & moderation skillset at the intersection of art and technology through integration and synthesis.
 
 *Strengths* : pedagogical, creative and interpersonal skills
 
 *Focus*: Innovation, Technology, Research & Development
 
-Personal Philosophy : "Fast, well done and at the first try"
+*Personal Philosophy*: "Fast, well done and at the first try"
 
 
 ==Interests, Hobbies and public Experience==
@@ -123,15 +138,14 @@ Personal Philosophy : "Fast, well done and at the first try"
 | MEX     | Graphic Web Designer                   | 2002      | Tec de Monterrey             |
 | MEX     | Administrative Assistant               | 1999      | Consejo Estatal de Poblacion |
 
-See  [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL)
+See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL)
 
 ## curriculum vitae
 
-[]
+[README.md](ipffs://0ax/pxm/usr/msantacruz.eth/bio)
 
 ## references
 
 [// CARIAD SE / Human Resources - Recommendation Letter](references/cariad.pdf), 5 Years (GER)
 
 [// Continental AG / Human Resources - Recommendation Letter](references/conti.pdf), 13 Years (MEX, GER)
-
