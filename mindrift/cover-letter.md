@@ -70,4 +70,4 @@ The Role> This is a new role, arising from advancements in AI technology. AI Tut
 |
 What is> Mindrift is a community of freelance experts, writers, and editors committed to innovation and excellence, dedicated to generating high-quality data for improving AI.
 
-[![oax - msantacruz.eth](https://img.shields.io/static/v1?label=oax&message=msantacruz.eth&color=2ea44f)](https://)
+[![oax - msantacruz.eth](https://img.shields.io/static/v1?label=oax&message=msantacruz.eth&color=2ea44f)](ipfs://oax/zicatela/msantacruz)
