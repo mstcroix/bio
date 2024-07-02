@@ -31,8 +31,9 @@ Tel. +52 (954) 1412 611
 
 [[2](cover-letter.md)] Cover letter
 
-| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | OPEN TO WORK<br>Available Q3/2024 |                                                                     July, 2024 |
-| ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------ |
+| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | OPEN TO WORK<br><br>Available Q3/2024 |                                                      July, 2024 |
+| ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------- |
+
 me: Dear Minddrift Team,
 ###### I Want to Be an AI Tutor!
 -- and be part of an AI Tutor team too! // After **10+ years professional experience in Germany**, I am back in Mexico looking forwards to put in practice and test the best concepts and practices (give & take) developed after years of detailed observation and cultural immersion into the  experts minds of the Allemagne.
@@ -58,16 +59,23 @@ As Technical & Domain Expert, ==**I will bring practical experience, expert insi
 **Let's Chat:**
 
 [@mstcroix](https://t.me/mstcroix) 
+
 Marco Santacruz
 
+
+---
+```
 /// refer https://mindrift.ai/roles/writer
-|
-The Call> Shape AI with  your knowledge
+```
+The Call> 
+>Shape AI with  your knowledge
 Break into the AI industry with your professional  
 expertise and writing skills
-|
-The Role> This is a new role, arising from advancements in AI technology. AI Tutors are experts involved in AI projects. Their responsibilities include crafting texts, evaluating the AI’s responses, and conducting fact-checks
-|
-What is> Mindrift is a community of freelance experts, writers, and editors committed to innovation and excellence, dedicated to generating high-quality data for improving AI.
+
+The Role> 
+>This is a new role, arising from advancements in AI technology. AI Tutors are experts involved in AI projects. Their responsibilities include crafting texts, evaluating the AI’s responses, and conducting fact-checks
+
+What is> 
+>Mindrift is a community of freelance experts, writers, and editors committed to innovation and excellence, dedicated to generating high-quality data for improving AI.
 
 [![oax - msantacruz.eth](https://img.shields.io/static/v1?label=oax&message=msantacruz.eth&color=2ea44f)](ipfs://oax/zicatela/msantacruz)
