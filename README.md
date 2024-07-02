@@ -47,8 +47,10 @@ Zicatela, Oaxaca, Mexico
 
 ## about me
 
-I create solutions in an interdisciplinary form.
-I am a natural integrator and social human being.
+I create solutions in an interdisciplinary form. 
+
+I am a natural integrator and social human being. 
+
 I thrive to marry Tech & Art.
 
 ## profile
@@ -83,11 +85,11 @@ Personal Philosophy : "Fast, well done and at the first try"
 
 ## cover-letter
 
-[mindrift.ai](mindrift/cover-letter.md)
+1. mindrift.ai - [AI Tutor](mindrift/cover-letter.md)
 
 ## resume
 
-[mindrift.ai](mindrift)
+1. mindrift.ai - [Technical & Domain Expert](mindrift)
 
 ## career
 
@@ -115,4 +117,6 @@ See  [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2uny
 ## references
 
 [// CARIAD SE / Human Resources - Recommendation Letter](references/cariad.pdf), 5 Years (GER)
+
 [// Continental AG / Human Resources - Recommendation Letter](references/conti.pdf), 13 Years (MEX, GER)
+
