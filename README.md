@@ -1,7 +1,7 @@
 `!-//// robots.json
 #web3spiddr ///////////////////////////////////////////////////////////////////////////////////////->`
 # mstcröix.bio
-#### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
+#### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor : 0axacker
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
 
 Zicatela, Oaxaca, Mexico
@@ -30,20 +30,26 @@ Zicatela, Oaxaca, Mexico
 ### t e c h
 
 1982. Born in Morelia. Michoacan. Mexico (3.8kg)
-1988. On October 12, the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
-1990. 6 years old — 3rd grade elementary school I wrote my first program in LEGO language. My teacher gifted me the Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program counts up to the infinite ♾️
+1988. 2 years old (almost) -- the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
+1990. 6 years old — I wrote my first program in LEGO language using a Commodore 64 and a 5" Floppy Disk. My teacher gifted me at the end of the year the K & R Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program uses an empty database and counts up to the infinite ♾️
 1994. 12 years old — First in hand encounter and usage of Internet at I.T.E.S.O University (MEX)
 	1. *Bulletin Board System (BBS) and  Internet Relay Chat (IRC)*
-1995. 14 years old — I became student of the Guadalajara Campus of Tec de Monterrey. I am introduced to UNIX terminals, Netscape, HTML, Internet and the www. My love for understanding how computer virii sends me throw a quest from computers science into hardware discovering  assembler language, debuggers.
+1996. 14 years old — I became student of the Guadalajara Campus of Tec de Monterrey. I am introduced to UNIX terminals, Netscape, HTML, Internet and the www. My love for understanding how computer virii sends me throw a quest from computers science into hardware discovering  assembler language, debuggers.
 	1. *JavaScript, ICQ, Napster, AOL*
-1996. 18 years old - I gave up the idea of studying Architecture (as my sister) and started studying Electronic Systems Engineering, later being tempted by the newly created Mechatronic career.
-	1. *C++, Java, Virtual Machines. MSN*
-1997. I found out about Bitcoin.
+1999. 18 years old - I gave up the idea of studying Architecture (as my sister) and started studying Electronic Systems Engineering, later being tempted by the newly created Mechatronic career.
+	1. *C++, Java, Virtual Machines. MSN. Webservices*
+2000. Google mail (London, UK)
+2001. 3+ Mobile phone with Google (London, UK)
+2010. WhatsApp (Guadalajara, MEX)
+2013. I found out about Bitcoin (Villingen, GER)
 	1. *Blockchain*
-1998. I found about the Ethereum Virtual Machine.
+2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
 	1. *Smart-contracts*
+2023. I prompted Chat-GPT for the first time, followed by my first non deterministic generative picture generated via Midjourney
 
 ### p e r s o n a l
+
+
 
 ## about me
 
