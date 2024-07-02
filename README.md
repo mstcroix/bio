@@ -1,7 +1,7 @@
 `!-//// robots.json
 #web3spiddr ///////////////////////////////////////////////////////////////////////////////////////->`
-# mstcröix.bio
-#### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor
+# mstcröix.bio .:
+#### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor : 0axacker
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
 
 Zicatela, Oaxaca, Mexico
@@ -18,6 +18,12 @@ Zicatela, Oaxaca, Mexico
 | GitHub | Ethereum Networks                       |
 | ------- | -------------------------------------- |
 | ![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4) | ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) |
+
+```                  .                             .   
+,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
+| | | `-. ,-| | | |  ,-| |   |   | |  /     | | |<  
+' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
+```
 
 ## intro
 
