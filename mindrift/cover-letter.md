@@ -7,9 +7,10 @@ Subject    : Job Application (https://mindrift.ai/)
 -------
                                                         Mexico. 20224, June 27th
 
-Dear
+Dear Minddrift Team,
 
-attached you might find the requested Resume, including the cover letter.
+attached to this E-mail or Website you might find the requested [1] Resume and
+[2] cover letter.
 
 Best regards,
 
@@ -20,3 +21,16 @@ Zicatela, Oaxaca
 MEXICO
 Tel. +52 (954) 1412 611
 ```
+>Contact me via E-Mail: [@msantacruz](mailto:marco.santacruz@findis.com.mx) or directly via chat: [@mstcroix](https://t.me/mstcroix)
+>
+
+---
+
+#### Attachments
+[[1](mindrift/cover-letter.md)] Resume
+
+[[2](mindrift)] Cover letter
+
+|  |  |
+| ------- | ---------------------------------------------------------------------------------- |
+| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | Dear Minddrift Team |
