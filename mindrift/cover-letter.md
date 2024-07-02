@@ -27,9 +27,9 @@ Tel. +52 (954) 1412 611
 ---
 
 #### Attachments
-[[1](mindrift/cover-letter.md)] Resume
+[[1](/mindrift)] Resume
 
-[[2](mindrift)] Cover letter
+[[2](cover-letter.md)] Cover letter
 
 |  |  | |
 | ------- | ---------------------------------------------------------------------------------- | -- |
