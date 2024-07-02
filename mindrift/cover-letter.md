@@ -31,6 +31,8 @@ Tel. +52 (954) 1412 611
 
 [[2](mindrift)] Cover letter
 
-|  |  |
-| ------- | ---------------------------------------------------------------------------------- |
-| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | Dear Minddrift Team |
+|  |  | |
+| ------- | ---------------------------------------------------------------------------------- | -- |
+| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | Dear Minddrift Team | July, 2024 |
+
+[![oax - msantacruz.eth](https://img.shields.io/static/v1?label=oax&message=msantacruz.eth&color=2ea44f)](https://)
