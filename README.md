@@ -8,9 +8,15 @@ Zicatela, Oaxaca, Mexico
 
 [msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
 
-### Open to work
-* Writing and Editing, Domain Experts
-* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
+<details open>
+  <summary>### <b>Open to work</b> ############</summary>
+  <p>
+  <ol>
+    <li>* Writing and Editing, Domain Experts</li>
+<li>* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles</li>
+  </ol>
+	</p>
+</details>
 
 ---
 ## :avatar
