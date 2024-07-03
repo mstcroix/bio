@@ -67,7 +67,7 @@ Some of my most significant milestones in my life
 2012. ExPat Germany. Relocated to Black Forrest, GER
 2014. My father dies from Pancreatic Cancer with 63 years
 2018. Relocated to Berlin, GER
-2022. Leave GER. Relocated to Oaxaca. MEX
+2022. Left GER. Relocated to Oaxaca. MEX
 2024. Relocated to Guadalajara. MEX.
 - start collaboration with Mindrift as AI Tutor (writer)
 
@@ -112,6 +112,25 @@ Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing t
 惾滴  餻  襔꽺
 
 ## letter of introduction
+
+In 2004, I finally made it to Sweden. The night I went with my sister and friends out of the Stockholm Train station, I finally found what I wanted: Design + Concept stores. And in the window is written: 
+>Never create something unless is: necessary and useful
+>but...
+>..if you create something, do it beautiful
+>
+There I found my self reflected in that glass of the store: art + tech
+My nicknname: @mstcröix
+- M. St. Cröix is the surface (area) under that wave (curve) directed by me (x) in relation with you (y) and how I inter-act
+
+	`$marco (x,y) | = Motte(x,y) + Santacruz(x,y) = Motte+Santacruz(x,y)$`
+
+~~~json
+/* mstcroix (CC) 2024 */
+>mount --distributed --collective --mesh-ping=10.1.1.10 --protocol=ERC-20 --mesh-pong=/usr/protocols/ERC-20/Z/Primaeval/M.St.Cröix --echo="/dApps/myecho" /dApps 
+>cd /dApps
+>/dApps/python -m erc-20 run.("msantacruz.eth").play(game_hash, max=2 "ETH")
+~~~
+
 
 ## cover-letter
 
