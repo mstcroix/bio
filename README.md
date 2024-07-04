@@ -154,6 +154,8 @@ So even though we face the difficulties of today and tomorrow, I still have a dr
 
 >I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
 
+[![oax - rfc.120](https://img.shields.io/static/v1?label=oax&message=rfc.120&color=2ea44f)](ipfs://0ax/Z/Zicatela/M.St.Cröix/RFC-120) `#rfc-120 : Digital Creation of "mexi/Polis"> Blockchain based mirrors for SE gGmbH SAPI de C.V. legal structures`
+
 >I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression will be transformed into an oasis of freedom and justice.
 
 >I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.
