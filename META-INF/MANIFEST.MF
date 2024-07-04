@@ -1,2 +1,12 @@
 Manifest-Version: 1.0
 Created-By: 1.7.0_06 (Oracle Corporation)
+Class-Path: Primaeval.jar
+Main-Class: mstcroix.bio
+
+Name: msantacruz.eth/dApps/
+Specification-Title: zEther Utility Classes
+Specification-Version: 1.2
+Specification-Vendor: zGlobal non/Community Resident Vendor Tech, Inc.
+Implementation-Title: mstcroix&web3=dapps
+Implementation-Version: zMark/build/r57
+Implementation-Vendor: Fundraiser: zLocal Community co-founded Example Tech, Funder: "M" Familia Societa EUropaea gGmbH SAPI de C.V.
