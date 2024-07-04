@@ -195,7 +195,60 @@ mstcroix@localhost:~$mount --distributed --collective --mesh-ping=10.1.1.10 --pr
 
 ## cover-letter
 
+| ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) | OPEN TO WORK<br><br>Available Q3/2024 | July, 2024 |
+| ------------------------------------------------------------------------------------- | ------------------------------------- | ---------- |
+
+`me:` Dear Reader,
+#### I Want to Be part of your Team!
+-- and enjoy co-creating together // After **10+ years professional experience in Germany**, I am back in Mexico looking forwards to put in practice and test the best concepts and practices (give & take) developed after years of detailed observation and cultural immersion into the experts minds of the Allemagne.
+
+Over the past **20+ years of experience in the Technology & Innovation** Train, I've been able to **work & thrive in large international teams**
+bringing & collecting **expertise in different roles** including non/profit, amateur level 
+- Business Co-Owner: Tata Ubiza & Co.
+- Start-up Enthusiast: FINDIS SAPI de C.V. - Finanzas Innovadoras y Disruptivas, CT & AI Officer
+- Graphic designer: Web designer (Apache, Java) : CITE - Centro de Innovación Tecnológica
+- Electronic hobbiest: B. in Sc. Degree in Electronic Systems Engineering
+- Branch Manager: Feng Sushi Ltd., London, UK
+ 
+As Technical & Domain Expert, **I bring practical experience, expert insights, fresh innovation & clarity in personal form**.
+in the following fields:
+- Technical Expert: *Automotive (ADAS, Vehicle & Body Control Units)*
+- Technical (Group) Leader: CMMi, ASPICE (Automotive), Scrum Master, Pomodoro
+- Software Developer & Integrator: CI, Jenkins, JIRA, Confluence & Co.
+
+**Let's Chat:**
+
+[@mstcroix](https://t.me/mstcroix) 
+
+Hobbies:
+-------
+- zHacker: Berlin, GER, Oaxaca, MEX
+- Programmer: Assembler, C, Javascript, PHP, Python, Pinescript, Lua, HTML
+- Languages, Distros & Tools: C++, Java, CGI Perl, CAPL, VHDL, ActionScript, CSS
+
+Marco Santacruz
+
+[![oax - msantacruz.eth](https://img.shields.io/static/v1?label=oax&message=msantacruz.eth&color=2ea44f)](ipfs://oax/zicatela/msantacruz)
+
+#### Attachments
+
+[[1](/mindrift)] Resume
+
+[[2](cover-letter.md)] Cover letter
 1. mindrift.ai - [AI Tutor](mindrift/cover-letter.md)
+
+---
+```
+/// refer https://URL/uri
+```
+The Call> 
+>what catches your attention_
+
+The Role> 
+>what does the description of the role says?
+
+What is> 
+>what does the title.
 
 ## resume
 
