@@ -69,13 +69,14 @@ Some of my most significant milestones in my life
 2003. Work & Live in UK (London, UK)
 2006. Work & Live in GER (Villingen, GER)
 2008. Married
-2011. Married
+2009. Patent granted (Stepper motor controller – WO2011049568A1)
+2011. Married++
 2012. ExPat Germany. Relocated to Black Forrest, GER
 2014. My father dies from Pancreatic Cancer with 63 years
 2018. Relocated to Berlin, GER
 2022. Left GER. Relocated to Oaxaca. MEX
 2024. Relocated to Guadalajara. MEX.
-- start collaboration with Mindrift as AI Tutor (writer)
+- start collaboration with Mindrift as AI Tutor (writer) : failed
 
 ## about me
 
@@ -131,12 +132,64 @@ My nicknname: @mstcröix
 	`$marco (x,y) | = Motte(x,y) + Santacruz(x,y) = Motte+Santacruz(x,y)$`
 
 ~~~json
-/* mstcroix (CC) 2024 */
->mount --distributed --collective --mesh-ping=10.1.1.10 --protocol=ERC-20 --mesh-pong=/usr/protocols/ERC-20/Z/Primaeval/M.St.Cröix --echo="/dApps/myecho" /dApps 
->cd /dApps
->/dApps/python -m erc-20 run.("msantacruz.eth").play(game_hash, max=2 "ETH")
+/* mstcroix (CC) 2024 .: <!DOCTYPE mf>
+[MANIFEST.mf](https://ipfs.io/ipfs/bafybeihkoviema7g3gxyt6la7vd5ho32ictqbilu3wnlo3rs7ewhnp7lly)
+<!DOCTYPE mf>
+Manifest-Version: 1.0
+Created-By: 1.6.0  (Sun  Microsystems Inc.) 
+Main-Class: com.java2s.Main 
+Sealed: true
+Name: usr/data/ 
+Sealed: false
+Name: images/logo.bmp
+Content-Type: image/bmp
+*/
 ~~~
 
+Documented a là K & R style, made my story telling style (using Martin Luther's historic speech). 
+Inspired by [**"TALK TO THE NATION"**](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety) title see [ipfs://<cid>/<path> or https://<cid>.ipfs.<gateway-host>/<path>](https://ipfs.io/ipfs/bafybeihkoviema7g3gxyt6la7vd5ho32ictqbilu3wnlo3rs7ewhnp7lly)
+
+Let us not wallow in the valley of despair, I say to you today, my friends.
+So even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.
+
+>I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+
+>I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression will be transformed into an oasis of freedom and justice.
+
+>I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.
+
+>I have a dream that one day down in Alabama with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification, one day right down in Alabama little Black boys and Black girls will be able to join hands with little white boys and white girls as sisters and brothers. I have a dream today.
+
+>I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.
+
+>This will be the day when all of God's children will be able to sing with new meaning: My country, 'tis of thee, sweet land of liberty, of thee I sing. Land where my fathers died, land of the pilgrims' pride, from every mountainside, let freedom ring.
+
+And if America is to be a great nation, this must become true. And so let freedom ring from the prodigious hilltops of New Hampshire. Let freedom ring from the mighty mountains of New York. Let freedom ring from the heightening Alleghenies of Pennsylvania. Let freedom ring from the snowcapped Rockies of Colorado. Let freedom ring from the curvaceous slopes of California. But not only that, let freedom ring from Stone Mountain of Georgia. Let freedom ring from Lookout Mountain of Tennessee. Let freedom ring from every hill and molehill of Mississippi. From every mountainside, let freedom ring.
+
+And when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God's children, Black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual: Free at last. Free at last. Thank God almighty, we are free at last.
+
+<pre><samp>                  .                             .   
+,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
+| | | `-. ,-| | | |  ,-| |   |   | |  /     | | |<  
+' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
+
+mstcroix@localhost:~$mount --distributed --collective --mesh-ping=10.1.1.10 --protocol=ERC-20 --mesh-pong=//MEX/0ax/pxm//usr/protocols/ERC-20/Z/Zicatela/Primaeval/M.St.Cröix (.)(.) --echo="/dApps/myecho" /dApps
+ |	Mounting local node to hive 10.1.1.10 using ERC-20 network protocols for communication
+ |	Security: none --collective-non-profit 
+ |	Communication channel Gate> 10.1.1.10 --protocol=ERC-20 -
+ \___	Consensus mechanism: mexiCAN v1.0
+     \\ mstcroix \ Ping Callback \ --> //MEX/0ax/pxm/usr//protocols/ERC-20/Z/Zicatelal/Primaeval/M.St.Cröix 
+     \\ mstcroix \ Echo Callback \ --> /dApps/myecho = {
+		name : "myecho"
+		command : "return $1"
+	}
+
+	Primaeval(erc-20::0x0be7e0606bed00077e0e2f65858066d504c66450)::@mstcroix.cmd=/usr/mstcroix/~$ <kbd>cd /dApps</kbd>
+	Primaeval::@mstcroix.cmd=/usr/mstcroix/dApps/$ <kbd>python -m erc-20 run.("msantacruz.eth").play(game_hash, max=2 "ETH")</kbd>
+	Primaeval::@mstcroix.cmd=/usr/mstcroix/dApps/$ <kbd>pwd</kbd>
+	ipfs://MEX/0ax/pxm/usr//protocols/ERC-20/Z/Zicatelal/Primaeval/M.St.Cröix
+</samp>
+</pre>
 
 ## cover-letter
 
@@ -174,3 +227,8 @@ See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2u
 [// CARIAD SE / Human Resources - Recommendation Letter](references/cariad.pdf), 5 Years (GER)
 
 [// Continental AG / Human Resources - Recommendation Letter](references/conti.pdf), 13 Years (MEX, GER)
+
+[// Blockchain address](https://www.google.com/search?q=msantacruz.eth) Last updated Jul 12, 2023, 9:32 AM CST. 
+- Balance as of last external transaction.
+- Internal transactions are excluded.
+see [etherscan.io](https://etherscan.io)
