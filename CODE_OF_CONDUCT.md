@@ -1,5 +1,5 @@
 # ~~~Citizen~~~ Ally Code of Conduct
-
+*Wikipedia*
 >Upon abolishing the titles of nobility in France, and the terms monsieur and madame (literally, 'my lord' and 'my lady'), the revolutionaries employed the term citoyen for men and citoyenne for women (both meaning 'citizen') to refer to each other.
 >
 >The term comrade generally means 'mate', 'colleague', or 'ally', and derives from the Spanish and Portuguese, term camarada,[1] literally meaning 'chamber mate', from Latin camera, meaning 'chamber' or 'room'.[2] It may also specifically mean "fellow soldier", comrade in arms.
