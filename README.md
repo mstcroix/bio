@@ -20,21 +20,19 @@ Zicatela, Oaxaca, Mexico
  </p>
 </details>
 <details open>
- <summary>#### <b>Open to collaborative team work</b> ############</summary>
- <p>
-  <ol>
-   <li>* Scrum master, open source, fsf, un*x, blockchain 
-   <li>* Writing and Editing, Domain Experts</li>
-   <li>* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles</li>
-  </ol>
- </p>
+ <summary><b>#### Open to collaborative team work ##########</b></summary>
+
+* Scrum master, open source, fsf, un*x, blockchain 
+	
+* Writing and Editing, Domain Experts
+  
+* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles
+  
 </details>
 <details>
  <summary>#### <b>Open to gigs and conscious job</b> ############</summary>
  <p>
-  <ol>
-   <li>* I get your WORK done, 007 like : fast, the first time and well done (like an authentic Mexican cost shark)</li>
-  </ol>
+   <pre>I get your WORK done, 007 like : fast, the first time and well done (like an authentic Mexican cost shark)</pre>
  </p>
 </details>
 
