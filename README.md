@@ -1,24 +1,45 @@
+<!DOCTYPE Markdown/3/web>
 `!-//// robots.json
 #web3spiddr ///////////////////////////////////////////////////////////////////////////////////////->`
 # mstcröix.bio .:
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor : 0axacker
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
 
+``` Reverser, Social & Financial Engineer ```
 Zicatela, Oaxaca, Mexico
 
 [msantacruz.io](msantacruz.uk) | [@marco.santacruz](mailto:marco.santacruz@findis.com.mx) | [@mstcroix](https://github.com/mstcroix/bio) | [LinkedIn](https://www.linkedin.com/in/marcosantacruz/)
 
-<details open>
-  <summary>### <b>Open to work</b> ############</summary>
-  <p>
+<details>
+ <summary>### <b>OPEN TO body WORK</b> ############</summary>
+ <p>
   <ol>
-    <li>* Writing and Editing, Domain Experts</li>
-<li>* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles</li>
+   <li>* Pilates, physiotherapy, ostheopathy </li>
+   <li>* Yoga. Calisthenics </li>
   </ol>
-	</p>
+ </p>
+</details>
+<details open>
+ <summary>#### <b>Open to collaborative team work</b> ############</summary>
+ <p>
+  <ol>
+   <li>* Scrum master, open source, fsf, un*x, blockchain 
+   <li>* Writing and Editing, Domain Experts</li>
+   <li>* Technical Consultant, Technology Expert, Solutions Architect, Educator and Scrum Master roles</li>
+  </ol>
+ </p>
+</details>
+<details>
+ <summary>#### <b>Open to gigs and conscious job</b> ############</summary>
+ <p>
+  <ol>
+   <li>* I get your done 007 like : fast, at first time and well done (like an authentic Mexican cost shark)</li>
+  </ol>
+ </p>
 </details>
 
 ---
+
 ## :avatar
 
 | GitHub | Ethereum Networks                       |
