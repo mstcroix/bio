@@ -33,7 +33,7 @@ Zicatela, Oaxaca, Mexico
  <summary>#### <b>Open to gigs and conscious job</b> ############</summary>
  <p>
   <ol>
-   <li>* I get your done 007 like : fast, at first time and well done (like an authentic Mexican cost shark)</li>
+   <li>* I get your WORK done, 007 like : fast, the first time and well done (like an authentic Mexican cost shark)</li>
   </ol>
  </p>
 </details>
