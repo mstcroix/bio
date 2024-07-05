@@ -149,12 +149,19 @@ Content-Type: image/bmp
 Documented a là K & R style, made my story telling style (using Martin Luther's historic speech). 
 Inspired by [**"TALK TO THE NATION"**](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety) title see [ipfs://<cid>/<path> or https://<cid>.ipfs.<gateway-host>/<path>](https://ipfs.io/ipfs/bafybeihkoviema7g3gxyt6la7vd5ho32ictqbilu3wnlo3rs7ewhnp7lly)
 
-Let us not wallow in the valley of despair, I say to you today, my friends.
+```
+August 28, 1963
+===============
+Rev. Dr. Martin Luther King, Jr., delivered this iconic 'I Have a Dream' speech at the March on Washington on August 28, 1963.
+	See `the relevant` text of King's speech below.
+```
+
+"Let us not wallow in the valley of despair, I say to you today, my friends.
 So even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.
 
 >I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
 
-[![oax - rfc.120](https://img.shields.io/static/v1?label=oax&message=rfc.120&color=2ea44f)](ipfs://0ax/Z/Zicatela/M.St.Cröix/RFC-120) `#rfc-120 : Digital Creation of "mexi/Polis"> Blockchain based mirrors for SE gGmbH SAPI de C.V. legal structures`
+[![oax - rfc.120](https://img.shields.io/static/v1?label=oax&message=rfc.120&color=2ea44f)](ipfs://0ax/Z/Zicatela/M.St.Cröix/RFC-120) `#rfc-120 : Digital Creation of "//Emexi/Polis"> Blockchain based mirrors for SE gGmbH SAPI de C.V. legal structures`
 
 >I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression will be transformed into an oasis of freedom and justice.
 
@@ -168,7 +175,9 @@ So even though we face the difficulties of today and tomorrow, I still have a dr
 
 And if America is to be a great nation, this must become true. And so let freedom ring from the prodigious hilltops of New Hampshire. Let freedom ring from the mighty mountains of New York. Let freedom ring from the heightening Alleghenies of Pennsylvania. Let freedom ring from the snowcapped Rockies of Colorado. Let freedom ring from the curvaceous slopes of California. But not only that, let freedom ring from Stone Mountain of Georgia. Let freedom ring from Lookout Mountain of Tennessee. Let freedom ring from every hill and molehill of Mississippi. From every mountainside, let freedom ring.
 
-And when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God's children, Black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual: Free at last. Free at last. Thank God almighty, we are free at last.
+And when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God's children, Black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual: Free at last. Free at last. Thank God almighty, we are free at last".
+
+>Rev. Dr. Martin Luther King, Jr
 
 <pre><samp>                  .                             .   
 ,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
