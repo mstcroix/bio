@@ -60,7 +60,7 @@ Zicatela, Oaxaca, Mexico
 
 ### t e c h {
 
-1982. Born in Mexico (Civil Engineer, Accountant)
+1982. Born in Mexico (son of Civil Engineer, Accountant, brother to 2+ future Architect)
 1988. 2 years old (almost) -- the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
 1990. 6 years old — I wrote my first program in LEGO language using a Commodore 64 and a 5" Floppy Disk. My teacher gifted me at the end of the year the K & R Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program uses an empty database and counts up to the infinite ♾️
 1994. 12 years old — First in hand encounter and usage of Internet at I.T.E.S.O University (MEX)
@@ -76,7 +76,7 @@ Zicatela, Oaxaca, Mexico
 	1. *Blockchain*
 2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
 	1. *Smart-contracts*
-2023. I prompted first "AI" for the first time, followed by my first non deterministic generative picture generated via Midjourney 1. Chat-GPT 3.5
+2023. I prompted first "AI" for the first time, followed by my first non deterministic generative picture generated via Midjourney 1. *Chat-GPT 3.5*
 ### }
 
 ### p e r s o n a l
@@ -85,17 +85,21 @@ Some of my most significant milestones in my life
 
 1982. Born in Morelia. Michoacán. Mexico (3.8kg)
 2000. Love Parade (Berlin, GER)
-2003. Work & Live in UK (London, UK)
+2003. Work & Live in UK (London, UK). Fabric (Camden Town, London) 
 2006. Work & Live in GER (Villingen, GER)
 2008. Married
 2009. Patent granted (Stepper motor controller – WO2011049568A1)
 2011. Married++
 2012. ExPat Germany. Relocated to Black Forrest, GER
-2014. My father dies from Pancreatic Cancer with 63 years
-2018. Relocated to Berlin, GER
+2014. My father dies from Pancreatic Cancer with 63 years. I enter a depression phase.
+2018. Divorced. Relocated to Berlin, GER
+2019. New Year's Eve Travel to Lake Atitlan, Guatemala.
+2020. COVID-19 isolation makes depression symptoms visible. Start of amateur Trading career.
+2021. Burn out. Cronic back pain.
 2022. Left GER. Relocated to Oaxaca. MEX
 2024. Relocated to Guadalajara. MEX.
 - start collaboration with Mindrift as AI Tutor (writer) : failed
+- start collaboration for development of algorithmic trade
 
 ## about me
 
@@ -113,7 +117,11 @@ Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing t
 
 *Focus*: Innovation, Technology, Research & Development
 
-*Personal Philosophy*: "Fast, well done and at the first try"
+*Personal Philosophy*: "Fast, well done and at the first try"  
+- generic (extendable), hardware/platform independent;
+- visible, transparent and forever;
+- with the *proper tool*,
+- purposefully, intentionally and in a philantropic fashion.
 
 
 ==Interests, Hobbies and public Experience==
