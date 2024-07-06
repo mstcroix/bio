@@ -1,6 +1,13 @@
 <!DOCTYPE Markdown/3/web>
 `!-//// robots.json
-#web3spiddr ///////////////////////////////////////////////////////////////////////////////////////->`
+#web3spiddr ///////////////////////////////////////////////////////////////////////////////////////////////////->`
+
+```                  .                             .   
+,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
+| | | `-. ,-| | | |  ,-| |   |   | |  /     | | |<  
+' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
+:bio☣
+```
 # mstcröix.bio .:
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor : 0axacker
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
@@ -44,11 +51,6 @@ Zicatela, Oaxaca, Mexico
 | ------- | -------------------------------------- |
 | ![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4) | ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) |
 
-```                  .                             .   
-,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
-| | | `-. ,-| | | |  ,-| |   |   | |  /     | | |<  
-' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
-```
 
 ## :intro
 
@@ -69,9 +71,10 @@ Zicatela, Oaxaca, Mexico
 	1. *JavaScript, ICQ, Napster, AOL*
 1999. 18 years old - I gave up the idea of studying Architecture (as my sister) and started studying Electronic Systems Engineering, later being tempted by the newly created Mechatronic career.
 	1. *C++, Java, Virtual Machines. MSN. Webservices*
-2000. Google mail (London, UK)
-2001. 3+ Mobile phone with Google (London, UK)
-2010. WhatsApp (Guadalajara, MEX)
+2000. 1. *Google mail* (London, UK)
+2009. Patent granted (Stepper motor controller – WO2011049568A1)
+2010. Usage of first mobile internet chat application 1. *WhatsApp* (Guadalajara, MEX)
+2011. 3+ Mobile phone with Google and Google maps (London, UK)
 2013. I found out about Bitcoin (Villingen, GER)
 	1. *Blockchain*
 2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
@@ -88,14 +91,16 @@ Some of my most significant milestones in my life
 2003. Work & Live in UK (London, UK). Fabric (Camden Town, London) 
 2006. Work & Live in GER (Villingen, GER)
 2008. Married
-2009. Patent granted (Stepper motor controller – WO2011049568A1)
+2010. First psychedellic experience.
 2011. Married++
 2012. ExPat Germany. Relocated to Black Forrest, GER
 2014. My father dies from Pancreatic Cancer with 63 years. I enter a depression phase.
-2018. Divorced. Relocated to Berlin, GER
+2016. Married-- (Divorced). 
+2017. First psychedellic + mystical experience.
+2018. Relocated to Berlin, GER
 2019. New Year's Eve Travel to Lake Atitlan, Guatemala.
-2020. COVID-19 isolation makes depression symptoms visible. Start of amateur Trading career.
-2021. Burn out. Cronic back pain.
+2020. COVID-19 isolation makes depression symptoms visible. 
+2021. Burn out. Cronic back pain. First somatic therapy experience (Bio-energetics)
 2022. Left GER. Relocated to Oaxaca. MEX
 2024. Relocated to Guadalajara. MEX.
 - start collaboration with Mindrift as AI Tutor (writer) : failed
@@ -323,3 +328,25 @@ See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2u
 - Balance as of last external transaction.
 - Internal transactions are excluded.
 see [etherscan.io](https://etherscan.io)
+
+## easter-eg^2
+
+A view into the future [w4](https://github.com/mstcroix/Fa03eb688ad8aa1db593d33dabd89bad)
+<pre><samp>
+ mov CS, [address](https://www.ikigames.com/2020/01/hello-world-with-debug/) 
+ call debug.com	        ;call program in remote computer
+ push -a		;push value in stack as argument (i.e. >debug.com -a) 
+  <kbd>
+	CS:0100 jmp 115                             ; Skip 19 bytes of the string
+	CS:0102 db 0d,0a,"hello, world!!",0d,0a,"$" ; "$" is the end of the string
+	CS:0115 mov ah, 9                           ; Print function of INT 21h
+	CS:0117 mov dx, 102                         ; Our string begins at 102
+	CS:011A int 21
+	CS:011C mov ah, 0                           ; Terminate our program
+	CS:011E int 21
+	CS:0120
+  </kbd>
+ </samp>
+ >go
+</pre>
+
