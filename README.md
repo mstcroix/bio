@@ -84,6 +84,7 @@ Zicatela, Oaxaca, Mexico
 
 ### p e r s o n a l
 
+Tz'ikin | ENFP-A | Generator 2/4 | 武士 
 Some of my most significant milestones in my life
 
 1982. Born in Morelia. Michoacán. Mexico (3.8kg)
