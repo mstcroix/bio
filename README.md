@@ -336,6 +336,7 @@ See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2u
 > 
 
 [README.md](ipffs://0ax/pxm/usr/msantacruz.eth/bio)
+[CV.html](CV.html)
 
 ~~~json
 [
@@ -437,8 +438,6 @@ University of California, Berkeley. "Resume vs. Curriculum Vitae: What's the Dif
 The Balance Careers. "CV vs. Resume: The Difference and When to Use Which" Retrieved from The Balance Careers.
 
 Indeed Career Guide. "CV vs. Resume: What's the Difference?" Retrieved from Indeed.com.
-
-
 
 ## easter-eg^2
 
