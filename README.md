@@ -153,7 +153,7 @@ Marco Antonio (ENFP-A | MX | UK | DE), embodies his visionary spirit, bringing t
 
 ## letter of introduction
 
-In 2004, I finally made it to Sweden. The night I went with my sister and friends out of the Stockholm Train station, I finally found what I wanted: Design + Concept stores. And in the window is written: 
+In 2001, I finally made it to Sweden. The night I went with my sister and friends out of the Stockholm Train station, I finally found what I wanted: Design + Concept stores. And in the window is written: 
 >Never create something unless is: necessary and useful
 >but...
 >..if you create something, do it beautiful
@@ -169,12 +169,12 @@ My nicknname: @mstcröix
 [MANIFEST.mf](https://ipfs.io/ipfs/bafybeihkoviema7g3gxyt6la7vd5ho32ictqbilu3wnlo3rs7ewhnp7lly)
 <!DOCTYPE mf>
 Manifest-Version: 1.0
-Created-By: 1.6.0  (Sun  Microsystems Inc.) 
-Main-Class: com.java2s.Main 
+Created-By: 1.0.1  (Tata Ubiza Microsystems Inc.) 
+Main-Class: mesh.com.ppp.Ubiza.mstcroix.Main 
 Sealed: true
-Name: usr/data/ 
+Name: Ubiza://usr/data/mstcroix 
 Sealed: false
-Name: images/logo.bmp
+Name: images/profile.bmp
 Content-Type: image/bmp
 */
 ~~~
@@ -294,13 +294,22 @@ What is>
 
 ## resume
 
+> <b>Purpose</b>: Job applications in the private sector<br>- Focuses on skills, experience, and achievements relevant to a specific job
+>
+> Length: Usually 1-2 pages long
+>
+> Content: - Concise summary of work experience, skills, and education
+> - Tailored to the specific job<br>
+> - May include a brief objective or summary statement, work history, education, skills, and possibly volunteer work or hobbies
+> 
 1. mindrift.ai - [Technical & Domain Expert](mindrift)
 
 ## career
 
 | Country | Role                                   | Term date | Company                      |
 | ------- | -------------------------------------- | --------- | ---------------------------- |
-| MEX     | Independent Entrepreneur               | 2024      | OrganiK + Tata Ubiza         |
+| MEX     | Independent Entrepreneur               | active    | OrganiK + Tata Ubiza         |
+| MEX     | Entrepreneur in Residence              | active    | FINDIS SAPI de C.V.          |
 | GER     | Software Architect                     | 2023      | CARIAD SE                    |
 | GER     | System Architect                       | 2022      | Carmeq GmbH                  |
 | GER     | Technical Expert                       | 2017      | Continental Automotive GmbH  |
@@ -317,7 +326,99 @@ See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2u
 
 ## curriculum vitae
 
+> <b>Purpose</b>: Used for academic, research, or scientific positions, as well as in some international job markets
+> - Provides a comprehensive overview of an individual's academic and professional history
+>
+> Length: Typically much longer, often 2-3 pages or more, depending on experience
+>
+> Content: - Detailed and comprehensive, including a full history of academic credentials, professional experience, publications, research, teaching experience, presentations, awards, honors, affiliations, and other academic achievements<br>
+> - Not usually tailored to a specific job; presents a complete overview of the individual's career
+> 
+
 [README.md](ipffs://0ax/pxm/usr/msantacruz.eth/bio)
+
+~~~json
+[
+  {
+    "Year": 2024,
+    "Company": "OrganiK + Tata Ubiza",
+    "Position": "Independent Entrepreneur",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2024,
+    "Company": "FINDIS SAPI de C.V.",
+    "Position": "Entrepreneur in Residence",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2023,
+    "Company": "CARIAD SE",
+    "Position": "Software Architect",
+    "Country": "GER"
+  },
+  {
+    "Year": 2022,
+    "Company": "Carmeq GmbH",
+    "Position": "System Architect",
+    "Country": "GER"
+  },
+  {
+    "Year": 2017,
+    "Company": "Continental Automotive GmbH",
+    "Position": "Technical Expert",
+    "Country": "GER"
+  },
+  {
+    "Year": 2011,
+    "Company": "ModuTram Mexico",
+    "Position": "Technical Consultant",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2008,
+    "Company": "Continental Automotive",
+    "Position": "Senior Software Engineer",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2007,
+    "Company": "Siemens VDO",
+    "Position": "Software Platform Developer",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2006,
+    "Company": "Siemens VDO Automo",
+    "Position": "Software Project Manager and Developer",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2004,
+    "Company": "Feng Sushi",
+    "Position": "Branch Manager",
+    "Country": "UK"
+  },
+  {
+    "Year": 2003,
+    "Company": "Mayan Resorts",
+    "Position": "Back End Developer",
+    "Country": "MEX"
+  },
+  {
+    "Year": 2002,
+    "Company": "Tec de Monterrey",
+    "Position": "Graphic Web Designer",
+    "Country": "MEX"
+  },
+  {
+    "Year": 1999,
+    "Company": "Consejo Estatal de Poblacion",
+    "Position": "Administrative Assistant",
+    "Country": "MEX"
+  }
+]
+~~~
 
 ## references
 
@@ -329,6 +430,15 @@ See as [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2u
 - Balance as of last external transaction.
 - Internal transactions are excluded.
 see [etherscan.io](https://etherscan.io)
+
+## Bibliography 
+University of California, Berkeley. "Resume vs. Curriculum Vitae: What's the Difference?" Retrieved from the Career Center.
+
+The Balance Careers. "CV vs. Resume: The Difference and When to Use Which" Retrieved from The Balance Careers.
+
+Indeed Career Guide. "CV vs. Resume: What's the Difference?" Retrieved from Indeed.com.
+
+
 
 ## easter-eg^2
 
