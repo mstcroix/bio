@@ -65,17 +65,33 @@ Zicatela, Oaxaca, Mexico
 1982. Born in Mexico (son of Civil Engineer, Accountant, brother to 2+ future Architect)
 1988. 2 years old (almost) -- the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
 1990. 6 years old — I wrote my first program in LEGO language using a Commodore 64 and a 5" Floppy Disk. My teacher gifted me at the end of the year the K & R Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program uses an empty database and counts up to the infinite ♾️
+	1. *Databases, DBase*
 1994. 12 years old — First in hand encounter and usage of Internet at I.T.E.S.O University (MEX)
 	1. *Bulletin Board System (BBS) and  Internet Relay Chat (IRC)*
 1996. 14 years old — I became student of the Guadalajara Campus of Tec de Monterrey. I am introduced to UNIX terminals, Netscape, HTML, Internet and the www. My love for understanding how computer virii sends me throw a quest from computers science into hardware discovering  assembler language, debuggers.
-	1. *JavaScript, ICQ, Napster, AOL*
+	1. *JavaScript (ECMA), ICQ, Napster, AOL*
+	2. *Remote Desktop*
 1999. 18 years old - I gave up the idea of studying Architecture (as my sister) and started studying Electronic Systems Engineering, later being tempted by the newly created Mechatronic career.
-	1. *C++, Java, Virtual Machines. MSN. Webservices*
-2000. 1. *Google mail* (London, UK)
-2009. Patent granted (Stepper motor controller – WO2011049568A1)
-2010. Usage of first mobile internet chat application 1. *WhatsApp* (Guadalajara, MEX)
-2011. 3+ Mobile phone with Google and Google maps (London, UK)
-2013. I found out about Bitcoin (Villingen, GER)
+	1. *C++, Java, Virtual Machines. MSN"
+	2. *Sockets. Webservices*
+2001. First year of Engineering - I was introduced to a new competitor for Altavista and Yahoo search engines
+	1. *Universidad virtual*, Tec de Monterrey Campus Guadalajara
+	2. *Google*
+2003. Graduted - B.Sc.
+      1. ** 
+2005. Sabbatical - Studied IT (London, UK)
+      1. *Google mail* 
+2006. First mentoring and implementation of Soft Real-Time Operating system in C + Assembler.
+      1. *uIP* (see [dunkels.com](https://dunkels.com/adam))
+2009. Patent granted (WO2011049568A1)
+	1. *TCC, QEMU* (see [bellard.org](https://bellard.org/))        
+2011. Usage of first mobile internet chat application 1. *WhatsApp* (Guadalajara, MEX)
+	1. *JSlinux*
+2013. 3+ Mobile phone with Google and Google maps (London, UK)
+	1. *Chromebook, Google Maps*
+2014. Embedding a language inside a microcontroller. Why not. 
+	1. *Lua, programming language*
+2015. I found out about Bitcoin (Villingen, GER)
 	1. *Blockchain*
 2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
 	1. *Smart-contracts*
