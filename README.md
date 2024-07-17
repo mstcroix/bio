@@ -1,6 +1,6 @@
 <!DOCTYPE Markdown/3/web>
 `!-//// robots.json
-#web3spiddr ///////////////////////////////////////////////////////////////////////////////////////////////////->`
+#web^3spiddr ///////////////////////////////////////////////////////////////////////////////////////////////////->`
 
 ```                  .                             .   
 ,-,-. ,-. ,-. ,-. |- ,-. ,-. ,-. . . ,_,    . . | ,
@@ -8,6 +8,7 @@
 ' ' ' `-' `-^ ' ' `' `-^ `-' '   `-^ '"' :; `-^ ' `
 :bio☣
 ```
+---
 # mstcröix.bio .:
 #### Meta-Scientist | Systems & Conceptual thinker | Decentralisation evangelist | SoS Architect | Interdisciplinary Integrator // Agilist : Disruptor : 0axacker
 Berlin, Berlin, Germany * [Personal Dashboard](https://airtable.com/appO0ztDoEyaEjfgQ/pagc2hk2qDH2unyZL) (Airtable)
@@ -44,13 +45,10 @@ Zicatela, Oaxaca, Mexico
 </details>
 
 ---
-
 ## :avatar
-
 | GitHub | Ethereum Networks                       |
 | ------- | -------------------------------------- |
-| ![mstcroix](https://avatars.githubusercontent.com/u/50671731?v=4) | ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) |
-
+| <img src="https://avatars.githubusercontent.com/u/50671731?v=4" width="130" height="130" /> | ![msantacruz.eth](https://effigy.im/a/0x0bE7e0606bEd00077e0e2f65858066d504C66450.png) |
 
 ## :intro
 
@@ -62,7 +60,7 @@ Zicatela, Oaxaca, Mexico
 
 ### t e c h {
 
-1982. Born in Mexico (son of Civil Engineer, Accountant, brother to 2+ future Architect)
+1982. Born in Mexico (son of Civil Engineer, Accountant, brother to 2+ years old future Architect sister)
 1988. 2 years old (almost) -- the first Internet connection in Mexico was made between the Monterrey Campus of Tec de Monterrey and the School of Medicine of the University of Texas at San Antonio.
 1990. 6 years old — I wrote my first program in LEGO language using a Commodore 64 and a 5" Floppy Disk. My teacher gifted me at the end of the year the K & R Programming in C book. My father (who self-teaches Fortran during his civil engineer studies at the U.N.A.M. (MEX)) teaches me programming in DBase. My first program uses an empty database and counts up to the infinite ♾️
 	1. *Databases, DBase*
@@ -83,15 +81,15 @@ Zicatela, Oaxaca, Mexico
       1. *Google mail* 
 2006. First mentoring and implementation of Soft Real-Time Operating system in C + Assembler.
       1. *uIP* (see [dunkels.com](https://dunkels.com/adam))
-2009. Patent granted (WO2011049568A1)
+2009. Patent submitted granted (WO2011049568A1)
 	1. *TCC, QEMU* (see [bellard.org](https://bellard.org/))        
-2011. Usage of first mobile internet chat application 1. *WhatsApp* (Guadalajara, MEX)
+2010. Usage of first mobile internet chat application replacing SMS 1. *WhatsApp* (Guadalajara, MEX)
 	1. *JSlinux*
-2013. 3+ Mobile phone with Google and Google maps (London, UK)
+2011. 3+ Mobile phone with Google and Google maps (London, UK)
 	1. *Chromebook, Google Maps*
-2014. Embedding a language inside a microcontroller. Why not. 
+2012. Embedding a language inside a microcontroller. Why not. 
 	1. *Lua, programming language*
-2015. I found out about Bitcoin (Villingen, GER)
+2013. I found out about Bitcoin (Villingen, GER)
 	1. *Blockchain*
 2016. I learned about the Ethereum Virtual Machine (Berlin, GER)
 	1. *Smart-contracts*
